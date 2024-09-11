@@ -16,4 +16,6 @@ And run it with values from tests
 ```
 nada run game_test
 ```
-Output should be tie or win of any of 3 players, you can also build your own tests and test with it ( check ```tests/game_test.yaml``` for example)
+Output should be tie or win of any of 3 players.
+
+You can also build your own tests and test with it ( check ```tests/game_test.yaml``` for example)
