@@ -1,7 +1,7 @@
-name = "test"
+name = "max_game"
 version = "0.1.0"
 authors = []
 
 [[programs]]
-path = "src/test.py"
+path = "src/max_game.py"
 prime_size = 128
