@@ -1,0 +1,8 @@
+---
+program: max_game
+inputs:
+  num_1: 6892
+  num_2: 5112
+  num_3: 3423
+expected_outputs:
+  winner: 1
