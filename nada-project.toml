@@ -1,6 +1,6 @@
 name = "max_game"
 version = "0.1.0"
-authors = []
+authors = ["twaltoner"]
 
 [[programs]]
 path = "src/max_game.py"
